@@ -1,5 +1,8 @@
+
 # cpp-quadtree
-Quad-tree with fixed radius collision detection implemented in C++ using SFML.
+Quadtree with fixed radius collision detection implemented in C++ using SFML.
+
+<img src="https://user-images.githubusercontent.com/13042828/117928647-d6fce280-b2c9-11eb-8d78-32f5ed780c16.gif" width="400" height="400">
 
 ## Dependencies
 
